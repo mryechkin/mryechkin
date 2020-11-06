@@ -14,6 +14,8 @@
 
 What do you call a programming party? `git bash` :trollface:
 
-Hi! :wave: My name is **Mykhaylo**, and I like dad jokes and JavaScript.
+Hi! :wave:
 
-Here to learn, and help others in any way that I can. My main interest and area of expertise lies with front-end development (with focus on **React** specifically at this time), however lately I've also started to branch out to **React Native** in personal projects.
+My name is Mykhaylo, and I like dad jokes and JavaScript.
+
+Here to learn, and help others in any way that I can. My main interest and area of expertise is in front-end development (with focus on **React** specifically at this time). Recently I've also started to dabble in **React Native** in personal projects.
