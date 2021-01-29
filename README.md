@@ -18,7 +18,9 @@
 
 What do you call a programming party? `git bash` :trollface:
 
-Hey :wave: My name is **Mykhaylo**, and I like dad jokes and JavaScript.
+Hey :wave:
+
+My name is **Mykhaylo**, and I like dad jokes and JavaScript.
 
 I'm a software engineer @ Manulife Canada, and my focus is web development. Currently enamored by `NextJS` and `TailwindCSS`.
 
