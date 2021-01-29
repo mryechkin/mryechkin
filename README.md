@@ -6,14 +6,20 @@
   <img align="left" alt="Mykhaylo's LinkedIn" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/technokozak">
+<a href="https://twitter.com/misha_est">
   <img align="left" alt="Mykhaylo's Twitter" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCWS51MbLHKtzEmYLtExyshQ">
+  <img align="left" alt="Mykhaylo's YouTube" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/youtube.svg" />
 </a>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 What do you call a programming party? `git bash` :trollface:
 
-Hi! :wave: My name is **Mykhaylo**, and I like dad jokes and JavaScript.
+Hey :wave: My name is **Mykhaylo**, and I like dad jokes and JavaScript.
 
-Here to learn, and help others in any way that I can. My main interest and area of expertise lies with front-end development (with focus on **React** specifically at this time), however lately I've also started to branch out to **React Native** in personal projects.
+I'm a senior software engineer @ Manulife Canada, and my focus is web development. Currently enamored by `NextJS` and `TailwindCSS`.
+
+In my spare time you'll find me either playing or listening to music, video gaming, or snapping photos on my Sony A99.
