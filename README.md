@@ -20,6 +20,6 @@ What do you call a programming party? `git bash` :trollface:
 
 Hey :wave: My name is **Mykhaylo**, and I like dad jokes and JavaScript.
 
-I'm a senior software engineer @ Manulife Canada, and my focus is web development. Currently enamored by `NextJS` and `TailwindCSS`.
+I'm a software engineer @ Manulife Canada, and my focus is web development. Currently enamored by `NextJS` and `TailwindCSS`.
 
 In my spare time you'll find me either playing or listening to music, video gaming, or snapping photos on my Sony A99.
