@@ -22,6 +22,6 @@ Hey :wave:
 
 My name is **Mykhaylo**, and I like dad jokes and JavaScript.
 
-I'm a software engineer @ Manulife, and my focus is web development (primarily "front-end"). Currently enamored by `NextJS` and all things `Tailwind` (I've drank the koolaid, lol)
+I'm a software engineer @ Manulife, with focus primarily on front-end on all things web. Currently I'm leading development of an internal React component library for use within Manulife and John Hancock.
 
-In my spare time you'll find me either playing or listening to music, video gaming, or snapping photos on my Sony DSLR. Lately I've also taken a liking to creating content, and have started sharing it on [YouTube](https://www.youtube.com/channel/UCWS51MbLHKtzEmYLtExyshQ)
+In my spare time you'll find me either playing or listening to music, gaming, or snapping photos on my Sony camera. I've also recently started creating content, and sharing what I learn on [YouTube](https://www.youtube.com/channel/UCWS51MbLHKtzEmYLtExyshQ).
