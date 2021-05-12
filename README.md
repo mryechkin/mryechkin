@@ -6,7 +6,7 @@
   <img align="left" alt="Mykhaylo's LinkedIn" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/misha_est">
+<a href="https://twitter.com/mryechkin">
   <img align="left" alt="Mykhaylo's Twitter" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/twitter.svg" />
 </a>
 
