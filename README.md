@@ -1,4 +1,6 @@
-## [misha.wtf](https://misha.wtf)
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+# [misha.wtf](https://misha.wtf)
 
 <a href="https://ca.linkedin.com/in/mryechkin">
   <img align="left" alt="Mykhaylo's LinkedIn" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/linkedin.svg" />
