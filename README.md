@@ -1,19 +1,19 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-# [misha.wtf](https://misha.wtf)
+<h1 align="center"><a href="https://misha.wtf" target="_blank">misha.wtf</a></h1>
 
-<a href="https://ca.linkedin.com/in/mryechkin">
-  <img align="left" alt="Mykhaylo's LinkedIn" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/linkedin.svg" />
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/c/MykhayloRyechkin">
+    <img alt="YouTube" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/youtube.svg" />
+  </a>
+</p>
 
-<a href="https://twitter.com/mryechkin">
-  <img align="left" alt="Mykhaylo's Twitter" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/twitter.svg" />
-</a>
+What do you call a programming party?
 
-<a href="https://www.youtube.com/channel/UCWS51MbLHKtzEmYLtExyshQ">
-  <img align="left" alt="Mykhaylo's YouTube" height="24px" src="https://raw.githubusercontent.com/mryechkin/mryechkin/master/assets/youtube.svg" />
-</a>
+**`git bash`**
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+(☞ﾟヮﾟ)☞
 
-What do you call a programming party? **`git bash`** :trollface:
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mryechkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
